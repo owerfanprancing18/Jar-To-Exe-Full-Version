@@ -244,4 +244,4 @@ This repository serves as the official landing page for Jar to Exe. The software
 **Get the most recent version of Jar to Exe today!**
 
 ---
-**Last updated:** 2026-09-24 17:35:38 UTC
+**Last updated:** 2026-09-24 20:49:03 UTC
